@@ -1,0 +1,8 @@
+import mss
+
+#实例化对象
+sec = mss.mss()
+
+monitor = garb
+img = sec.grab()
+
