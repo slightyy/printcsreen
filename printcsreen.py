@@ -21,3 +21,4 @@ with mss.mss() as sct:
             break
 
 cv2.destroyAllWindows()
+#macos 需要截取当前屏幕的话要在设置里面允许pycharm录制屏幕
